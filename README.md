@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | JavaScript | HTML | CSS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+the+web...;Dark+UI+%7C+Clean+Code;Frontend+Web+Developer;JavaScript+Addict" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+the+web...;Dark+UI+%7C+Clean+Code;Frontend+Web+Developer;JavaScript+Addict;Full+Stack+in+Progress" />
 </p>
 
 <p align="center">
@@ -23,5 +23,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=node.js&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat&logo=mysql&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/REST%20API-0d1117?style=flat&logo=fastapi&logoColor=00ff9c" />
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=00ff9c" />
-  <img src="
+</p>
