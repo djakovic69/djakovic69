@@ -2,18 +2,7 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=djakovic&color=00ff9c&style=flat" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=00ff9c" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00FF9C&center=true&vCenter=true&width=420&lines=Web+Developer;JavaScript+%7C+HTML+%7C+CSS;Dark+UI+%26+Clean+Code" />
-</p>
-
-## ⚙️ Stack
-
-* **HTML / CSS / JavaScript**
-* Bootstrap, jQuery
-* Node.js, Python
-* Git, Linux
-
-<i>Code in the dark.</i>
